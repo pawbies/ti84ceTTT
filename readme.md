@@ -1,4 +1,4 @@
-### Hello World Demo
+### ti84ceTTT
 
 if you ever wanted to play tic tac toe on your ti 84
 
